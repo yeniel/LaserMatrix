@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LaserMatrix</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- COMMANDS -->
+    <string name="commandRepeat">COMMAND_REPEAT:</string>
+    <string name="commandSendAnimation">COMMAND_ANIMATION</string>
+    <string name="commandTurnOnRows">COMMAND_TURN_ON_ROWS:</string>
+    <string name="commandTurnOnCorners">COMMAND_TURN_ON_CORNERS</string>
+    <string name="commandTurnOnAll">COMMAND_TURN_ON_ALL</string>
+    <string name="commandReset">COMMAND_RESET</string>
+    <string name="twitterAccount">#lasma</string>
+</resources>
